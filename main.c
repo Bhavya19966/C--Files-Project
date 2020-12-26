@@ -4,7 +4,6 @@ void main()
 {
         fact();
         rev();
-        big3();
         big2();
         pal();
 }
