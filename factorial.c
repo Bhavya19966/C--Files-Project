@@ -1,6 +1,6 @@
 #include <stdio.h>
-void fact() {
-    int n, i;
+void fact() 
+{    int n, i;
     unsigned long long fact = 1;
     printf("Enter an integer: ");
     scanf("%d", &n);
